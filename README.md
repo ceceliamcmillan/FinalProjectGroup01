@@ -12,3 +12,13 @@ Each person will loop in the rest of the group on their achievements and complet
 Slack channel for the group will also be a place for any questions that arise during the week 
 Group will work collaboratively during class times each week and ensure all data is accurate and troubleshoot where needed
 
+
+
+
+
+
+
+
+
+
+
