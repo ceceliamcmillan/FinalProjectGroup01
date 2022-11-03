@@ -22,10 +22,13 @@ What we plan to anaylze with our data:
 We have narrowed data down to residents of the US only to eliminate inaccuracies with currency. We plan to select 1-5 job titles to compare and make predictions with. 
 
 Questions will include:
-Avg change in salary per year
-Salary prediction for the following year (2023)
-Salary based on company size
-Salary comparison for remote vs in-office positions. 
+---- 
+Avg change in salary per year (Cecelia) & 
+Salary prediction for the following year (2023) (Cecelia) // 
+Salary based on company size (David) //// 
+Salary comparison for remote vs in-office positions. (Kinjal) /// 
+Salary comparison for top 5 positions (Nensi) . 
+
 
 What we will use:
 Linear Regression Machine Learning 
