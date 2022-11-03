@@ -19,7 +19,13 @@ Group selected this particular topic because it is relevant to the coursework an
 This Tableau story can be seen at  [link to dashboard](https://public.tableau.com/app/profile/nensi.pandya/viz/ds_salary/JobtitleandSalaryinUSd)
 
 What we plan to anaylze with our data: 
+We have narrowed data down to residents of the US only to eliminate inaccuracies with currency. We plan to select 1-5 job titles to compare and make predictions with. 
 
+Questions will include:
+Avg change in salary per year
+Salary prediction for the following year (2023)
+Salary based on company size
+Salary comparison for remote vs in-office positions. 
 
 What we will use:
 Linear Regression Machine Learning 
