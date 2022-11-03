@@ -13,6 +13,16 @@ Slack channel for the group will also be a place for any questions that arise du
 Group will work collaboratively during class times each week and ensure all data is accurate and troubleshoot where needed
 
 
+Our Why:
+Group selected this particular topic because it is relevant to the coursework and incorporates the information Prof Norman went over at the beginning of each topic. Salary matters in each field, and knowing what we are looking at is beneficial to all of us as we explore data science careers. 
+
+
+What we plan to anaylze with our data: 
+
+
+What we will use:
+Linear Regression Machine Learning 
+Juoyter notebook, Tableau 
 
 
 
