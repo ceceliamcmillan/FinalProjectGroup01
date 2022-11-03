@@ -33,7 +33,7 @@ Juoyter notebook, Tableau
 
 
 Presentation:
-Google Slides 
+[Link to Google Slides] (https://docs.google.com/presentation/d/1EuZcaTtNKKLiq5Ai4xnP8bAwsP34RqSoqZRCWC5Jcxg/edit#slide=id.g12bc75dd6ef_0_15)
 
 
 
