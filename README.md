@@ -6,6 +6,10 @@ Group decided on a topic - Data Science Job Salaries
 
 ### Link : https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries
 
+# Dataset source
+We pulled the data from Kaggle
+The dataset was uploaded to Kaggle from the original  [source] (https://salaries.ai-jobs.net/)
+The site soley for Machine Learning/AI/Tech Job salaries. People are able to submit their own info to add it to the dataset. 
 # Dataset Explaination 
 
 <b>work_year</b> : The year the salary was paid.
