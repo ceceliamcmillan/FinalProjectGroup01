@@ -8,7 +8,7 @@ Group decided on a topic - Data Science Job Salaries
 
 # Dataset source
 We pulled the data from Kaggle
-The dataset was uploaded to Kaggle from the original [Source, Ai-salaries ](https://salaries.ai-jobs.net/
+The dataset was uploaded to Kaggle from the original [Source, Ai-salaries ](https://salaries.ai-jobs.net/download
 )
 The site is soley for Machine Learning/AI/Tech open positions and a salary database. People are able to submit their own info to add it to the dataset. 
 # Dataset Explaination 
