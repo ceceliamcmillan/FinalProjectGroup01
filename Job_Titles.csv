@@ -1,0 +1,608 @@
+Uni_number,job_title,employee_residence,remote_ratio,company_location,company_size
+0,Data Scientist,DE,0,DE,L
+1,Machine Learning Scientist,JP,0,JP,S
+2,Big Data Engineer,GB,50,GB,M
+3,Product Data Analyst,HN,0,HN,S
+4,Machine Learning Engineer,US,50,US,L
+5,Data Analyst,US,100,US,L
+6,Lead Data Scientist,US,100,US,S
+7,Data Scientist,HU,50,HU,L
+8,Business Data Analyst,US,100,US,L
+9,Lead Data Engineer,NZ,50,NZ,S
+10,Data Scientist,FR,0,FR,S
+11,Data Scientist,IN,0,IN,L
+12,Data Scientist,FR,0,FR,M
+13,Lead Data Analyst,US,100,US,L
+14,Data Analyst,US,100,US,L
+15,Data Analyst,PK,50,PK,L
+16,Data Engineer,JP,100,JP,S
+17,Big Data Engineer,PL,100,GB,S
+18,Data Science Consultant,IN,50,IN,M
+19,Lead Data Engineer,PT,100,US,M
+20,Machine Learning Engineer,CN,0,CN,M
+21,Product Data Analyst,IN,100,IN,L
+22,Data Engineer,GR,50,GR,L
+23,BI Data Analyst,US,0,US,M
+24,Lead Data Scientist,AE,0,AE,L
+25,Director of Data Science,US,100,US,L
+26,Research Scientist,NL,50,NL,L
+27,Data Engineer,MX,0,MX,S
+28,Business Data Analyst,US,100,US,L
+29,Machine Learning Manager,CA,50,CA,L
+30,Data Engineering Manager,DE,100,DE,S
+31,Big Data Engineer,US,100,US,L
+32,Data Scientist,GR,100,US,L
+33,Research Scientist,US,0,US,M
+34,Data Analyst,FR,50,FR,L
+35,Data Engineer,AT,50,AT,L
+36,Data Science Consultant,US,100,US,L
+37,Machine Learning Engineer,US,50,US,L
+38,Data Analyst,NG,100,NG,S
+39,Machine Learning Engineer,US,100,US,S
+40,Data Scientist,PH,100,US,S
+41,Data Engineering Manager,ES,50,ES,L
+42,Machine Learning Infrastructure Engineer,PT,0,PT,M
+43,Data Engineer,US,100,US,L
+44,Data Engineer,GB,50,GB,L
+45,ML Engineer,DE,100,DE,S
+46,Data Scientist,GB,100,GB,S
+47,Data Engineer,US,100,US,L
+48,Data Scientist,US,100,US,L
+49,Data Engineer,FR,50,FR,L
+50,Data Analyst,IN,0,IN,S
+51,Data Analyst,US,100,US,L
+52,AI Scientist,DK,50,DK,S
+53,Data Engineer,PK,100,DE,L
+54,Computer Vision Engineer,RU,100,US,S
+55,Principal Data Scientist,DE,100,DE,M
+56,Data Scientist,ES,100,ES,M
+57,Data Scientist,US,100,US,M
+58,Data Scientist,US,50,US,L
+59,Data Scientist,US,100,US,M
+60,Data Engineer,US,100,US,L
+61,Data Engineer,ES,100,US,M
+62,Data Scientist,IT,50,IT,S
+63,Data Scientist,US,100,US,L
+64,Machine Learning Engineer,HR,100,HR,S
+65,Data Scientist,DE,50,DE,S
+66,Data Scientist,DE,0,DE,S
+67,Data Science Manager,US,100,US,M
+68,Data Scientist,US,100,US,S
+69,Data Scientist,AT,0,AT,S
+70,Data Scientist,FR,50,LU,S
+71,Data Scientist,FR,50,FR,S
+72,Research Scientist,GB,50,GB,L
+73,BI Data Analyst,IN,100,US,L
+74,Head of Data,US,100,US,L
+75,Data Scientist,FR,50,FR,L
+76,BI Data Analyst,US,100,US,M
+77,3D Computer Vision Researcher,IN,50,IN,M
+78,ML Engineer,US,100,US,L
+79,Data Analyst,US,100,US,M
+80,Data Analytics Engineer,DE,100,DE,L
+81,Data Engineer,US,100,US,L
+82,Applied Data Scientist,GB,50,CA,L
+83,Machine Learning Engineer,ES,100,ES,S
+84,Director of Data Science,IT,100,PL,L
+85,Data Engineer,PL,100,PL,L
+86,Data Analyst,FR,50,FR,M
+87,Data Analytics Engineer,US,100,US,L
+88,Lead Data Analyst,US,100,US,L
+89,Data Analyst,BG,100,US,S
+90,Marketing Data Analyst,GR,100,DK,L
+91,Data Science Consultant,DE,100,DE,S
+92,Lead Data Analyst,IN,100,IN,L
+93,Lead Data Engineer,US,0,US,L
+94,Data Scientist,IN,50,IN,L
+95,Cloud Data Engineer,SG,50,SG,L
+96,AI Scientist,BR,100,US,S
+97,Financial Data Analyst,US,100,US,L
+98,Computer Vision Software Engineer,US,100,US,M
+99,Computer Vision Software Engineer,DE,100,US,S
+100,Data Analyst,US,0,US,L
+101,Data Engineer,US,100,US,L
+102,BI Data Analyst,HU,50,US,L
+103,Data Analyst,US,0,US,L
+104,Data Scientist,US,0,US,L
+105,Data Analyst,GB,50,GB,L
+106,Research Scientist,CA,100,CA,L
+107,Data Engineer,US,100,US,S
+108,Data Engineer,US,100,US,M
+109,Data Engineer,IN,100,IN,L
+110,Machine Learning Engineer,DE,50,DE,L
+111,Director of Data Engineering,GB,100,GB,M
+112,Lead Data Engineer,GB,100,GB,S
+113,AI Scientist,PK,100,US,M
+114,Data Engineer,NL,100,NL,L
+115,Machine Learning Scientist,US,100,US,L
+116,Data Scientist,NG,100,NG,L
+117,Data Science Engineer,GR,100,GR,M
+118,Data Analyst,US,100,US,S
+119,Data Engineer,US,100,US,L
+120,Big Data Engineer,ES,50,RO,M
+121,Principal Data Engineer,US,100,US,M
+122,Data Analyst,US,100,US,M
+123,Applied Data Scientist,GB,0,GB,L
+124,Data Analyst,ES,50,ES,M
+125,Principal Data Scientist,US,100,US,L
+126,Machine Learning Scientist,US,50,US,S
+127,Data Scientist,IN,0,IN,S
+128,Machine Learning Engineer,IN,100,IN,S
+129,Lead Data Scientist,IN,50,IN,L
+130,Machine Learning Developer,IQ,50,IQ,S
+131,Data Scientist,FR,50,FR,M
+132,Applied Machine Learning Scientist,VN,100,US,M
+133,Computer Vision Engineer,BR,100,BR,M
+134,Data Scientist,US,0,US,S
+135,Data Analyst,US,100,US,M
+136,ML Engineer,JP,50,JP,S
+137,ML Engineer,JP,50,JP,S
+138,Principal Data Scientist,US,0,US,L
+139,Data Scientist,US,100,US,M
+140,Data Analyst,US,100,US,L
+141,Data Science Manager,US,0,US,L
+142,Data Engineering Manager,US,0,US,L
+143,Data Scientist,US,100,US,S
+144,Data Engineer,US,100,US,L
+145,Machine Learning Engineer,BE,50,BE,M
+146,Research Scientist,FR,50,FR,M
+147,Data Engineer,US,100,US,L
+148,Data Engineering Manager,US,100,US,L
+149,Cloud Data Engineer,BR,100,US,S
+150,Director of Data Science,JP,0,JP,S
+151,Data Scientist,US,100,US,M
+152,Data Scientist,CA,100,CA,L
+153,Data Scientist,UA,100,UA,L
+154,Data Science Manager,US,100,US,L
+155,Data Science Engineer,CA,50,CA,L
+156,Data Scientist,SG,100,IL,M
+157,Applied Machine Learning Scientist,US,50,US,L
+158,Data Analytics Manager,US,100,US,M
+159,Machine Learning Engineer,US,100,US,S
+160,Head of Data,RU,50,RU,L
+161,Head of Data Science,RU,0,RU,M
+162,Data Engineer,MT,50,MT,L
+163,Data Science Consultant,DE,50,DE,L
+164,Director of Data Science,DE,50,DE,M
+165,Data Specialist,US,100,US,L
+166,Data Engineer,US,100,US,L
+167,Director of Data Science,US,0,US,L
+168,BI Data Analyst,US,50,US,S
+169,Data Architect,US,100,US,L
+170,Data Architect,US,100,US,L
+171,Data Engineer,GB,100,GB,L
+172,Data Analyst,US,100,US,S
+173,Principal Data Scientist,US,100,US,L
+174,Research Scientist,PT,50,PT,L
+175,Data Engineering Manager,US,100,US,L
+176,Data Scientist,MX,0,MX,S
+177,Data Scientist,CL,100,CL,L
+178,Machine Learning Engineer,US,50,US,S
+179,Data Scientist,IN,100,US,S
+180,Big Data Engineer,IN,0,IN,L
+181,Data Scientist,DE,50,DE,L
+182,Data Engineer,RO,0,US,L
+183,Finance Data Analyst,GB,50,GB,L
+184,Machine Learning Scientist,PK,50,PK,M
+185,Data Engineer,IR,100,IR,M
+186,Data Analytics Engineer,VN,100,GB,M
+187,Data Science Consultant,FR,100,ES,S
+188,Data Engineer,RO,50,GB,S
+189,Machine Learning Engineer,JP,50,JP,S
+190,Data Science Manager,US,100,FR,L
+191,Machine Learning Engineer,CO,50,CO,M
+192,Big Data Engineer,MD,0,MD,S
+193,Data Science Manager,US,100,US,L
+194,Research Scientist,CA,50,CA,L
+195,Data Scientist,US,50,US,L
+196,BI Data Analyst,KE,100,KE,S
+197,Machine Learning Engineer,IN,100,IN,L
+198,Data Science Manager,IN,50,US,L
+199,Data Science Consultant,US,100,US,S
+200,Data Scientist,DE,50,AT,M
+201,Machine Learning Infrastructure Engineer,US,100,US,M
+202,Data Scientist,ES,100,ES,L
+203,Research Scientist,FR,100,US,S
+204,Data Scientist,US,100,US,L
+205,Data Scientist,BR,0,BR,S
+206,Machine Learning Engineer,US,100,US,L
+207,Data Engineer,US,0,US,M
+208,Data Engineer,IT,0,US,L
+209,Data Analytics Manager,US,0,US,L
+210,Machine Learning Engineer,SI,50,SI,L
+211,Research Scientist,FR,50,FR,S
+212,Data Engineer,HK,50,GB,S
+213,Big Data Engineer,IN,0,CH,L
+214,Machine Learning Engineer,DE,50,DE,M
+215,Principal Data Engineer,US,100,US,L
+216,Computer Vision Engineer,DK,50,DK,S
+217,Data Scientist,DE,50,DE,L
+218,Machine Learning Engineer,BE,100,BE,M
+219,Data Analytics Manager,US,100,US,L
+220,Machine Learning Engineer,PL,100,PL,L
+221,Data Scientist,GB,50,GB,L
+222,Data Scientist,IN,0,IN,M
+223,Data Scientist,GB,50,GB,L
+224,Machine Learning Scientist,US,100,CA,L
+225,Principal Data Scientist,US,100,US,S
+226,Data Scientist,CA,100,CA,S
+227,Data Scientist,DE,50,DE,L
+228,Data Scientist,US,0,US,L
+229,Data Analyst,CA,100,CA,M
+230,Big Data Engineer,IN,100,IN,L
+231,ML Engineer,US,100,US,S
+232,Director of Data Engineering,US,100,US,L
+233,Data Analyst,US,100,US,L
+234,Data Architect,US,100,US,L
+235,Head of Data Science,US,0,US,S
+236,Research Scientist,CA,100,CA,M
+237,Data Scientist,ES,100,ES,M
+238,Data Scientist,VN,0,VN,M
+239,Data Engineer,IN,50,IN,M
+240,Data Scientist,CA,100,CA,L
+241,Data Analyst,US,100,US,L
+242,Data Engineer,US,100,US,L
+243,Data Scientist,US,100,US,L
+244,AI Scientist,IN,100,AS,S
+245,Data Engineer,GB,50,GB,L
+246,Data Scientist,FR,50,FR,L
+247,Data Engineer,TR,0,TR,M
+248,Data Engineer,GB,50,GB,L
+249,Principal Data Analyst,US,100,US,M
+250,Data Scientist,US,50,US,L
+251,Data Scientist,US,100,US,S
+252,Principal Data Engineer,US,100,US,L
+253,Data Scientist,IN,100,IN,M
+254,Data Analyst,US,100,US,L
+255,Big Data Architect,CA,50,CA,M
+256,Data Engineer,US,100,US,L
+257,Principal Data Scientist,DE,100,DE,M
+258,Machine Learning Engineer,US,50,US,L
+259,Director of Data Science,DE,0,DE,L
+260,Data Scientist,US,50,US,L
+261,Data Analyst,DE,50,DE,L
+262,Data Scientist,IN,100,IN,S
+263,Machine Learning Engineer,IN,0,IN,L
+264,Data Scientist,RS,100,DE,S
+265,Lead Data Engineer,PR,50,US,S
+266,Data Engineer,US,0,US,M
+267,Data Engineer,US,0,US,M
+268,Data Engineer,TR,100,TR,M
+269,Data Engineer,DE,50,DE,M
+270,Data Engineer,US,100,US,L
+271,Computer Vision Engineer,BR,0,BR,M
+272,Data Science Consultant,DE,0,DE,L
+273,Machine Learning Engineer,NL,100,DE,S
+274,Data Scientist,FR,50,FR,M
+275,Data Scientist,US,100,US,M
+276,Data Scientist,US,50,US,L
+277,AI Scientist,ES,100,ES,L
+278,Data Scientist,TR,50,TR,L
+279,Business Data Analyst,LU,100,LU,L
+280,Data Engineer,US,100,US,L
+281,Research Scientist,JE,0,CN,L
+282,Data Engineer,NL,100,NL,L
+283,Staff Data Scientist,US,100,US,M
+284,Research Scientist,CZ,50,CZ,L
+285,Data Science Manager,IN,50,IN,L
+286,Head of Data,SI,100,SI,L
+287,Data Scientist,US,50,US,L
+288,Machine Learning Engineer,IT,50,IT,L
+289,Data Engineer,US,100,US,M
+290,Data Analyst,US,100,US,M
+291,Data Analyst,US,100,US,M
+292,Data Scientist,US,0,US,M
+293,Data Scientist,US,0,US,M
+294,Data Engineer,US,100,US,M
+295,Data Engineer,US,100,US,M
+296,Data Analyst,US,100,US,M
+297,Data Analyst,US,100,US,M
+298,Data Scientist,US,100,US,M
+299,Data Scientist,US,100,US,M
+300,Data Scientist,GB,0,GB,M
+301,Data Scientist,GB,0,GB,M
+302,Data Scientist,US,100,US,M
+303,Data Scientist,US,100,US,M
+304,Data Engineer,GB,100,GB,M
+305,Data Analyst,US,0,US,M
+306,Data Analyst,US,0,US,M
+307,Data Analyst,US,0,US,M
+308,Data Analyst,US,0,US,M
+309,Data Engineer,US,100,US,M
+310,Data Engineer,US,100,US,M
+311,Data Scientist,GB,0,GB,M
+312,Data Scientist,GB,0,GB,M
+313,Data Engineer,GB,0,GB,M
+314,Data Engineer,GB,0,GB,M
+315,Data Scientist,US,100,US,M
+316,Data Engineer,GB,100,GB,M
+317,Data Scientist,US,100,US,M
+318,Data Analyst,US,100,US,M
+319,Data Engineer,US,0,US,M
+320,Data Engineer,US,0,US,M
+321,Data Engineer,US,0,US,M
+322,Data Engineer,US,0,US,M
+323,Data Scientist,US,0,US,L
+324,Data Scientist,US,0,US,L
+325,Data Analyst,US,100,US,M
+326,Data Analyst,US,100,US,M
+327,Data Analyst,US,100,US,M
+328,Data Analyst,US,100,US,M
+329,Data Analyst,US,100,US,M
+330,Data Analyst,US,100,US,M
+331,Data Analyst,US,100,US,M
+332,Data Analyst,US,100,US,M
+333,Data Analyst,US,100,US,M
+334,Data Engineer,US,100,US,M
+335,Data Engineer,US,100,US,M
+336,Data Analyst,US,100,US,M
+337,Data Engineer,US,100,US,M
+338,Data Analyst,US,100,US,M
+339,Data Analyst,US,100,US,M
+340,Data Engineer,US,100,US,M
+341,Data Engineer,US,100,US,M
+342,Head of Data Science,US,100,US,M
+343,Head of Data Science,US,100,US,M
+344,Analytics Engineer,US,100,US,M
+345,Data Engineer,US,100,US,M
+346,Data Engineer,US,0,US,M
+347,Data Scientist,US,0,US,M
+348,Data Engineer,US,0,US,L
+349,Data Analyst,US,100,US,M
+350,Data Science Manager,US,100,US,M
+351,Data Science Manager,US,100,US,M
+352,Data Scientist,US,100,US,M
+353,Data Scientist,US,100,US,M
+354,Data Engineer,GB,0,GB,M
+355,Data Engineer,GB,0,GB,M
+356,Data Scientist,US,0,US,M
+357,Data Scientist,US,100,US,M
+358,Data Architect,CA,100,CA,M
+359,Data Architect,CA,100,CA,M
+360,Data Analyst,CA,100,CA,M
+361,Data Analyst,CA,100,CA,M
+362,Data Analyst,CA,100,CA,M
+363,Data Analyst,CA,100,CA,M
+364,Data Engineer,US,0,US,L
+365,Data Scientist,US,100,US,M
+366,Data Engineer,US,0,US,M
+367,Data Analyst,US,0,US,S
+368,Analytics Engineer,US,100,US,M
+369,Data Scientist,US,100,US,M
+370,Data Scientist,US,100,US,M
+371,Machine Learning Engineer,US,0,US,M
+372,Machine Learning Engineer,US,0,US,M
+373,ETL Developer,GR,0,GR,M
+374,ETL Developer,GR,0,GR,M
+375,Lead Data Engineer,CA,100,CA,S
+376,Data Analyst,US,0,US,M
+377,Data Engineer,US,100,US,M
+378,Data Architect,US,100,US,M
+379,Data Architect,US,100,US,M
+380,Data Engineer,US,100,US,M
+381,Data Engineer,US,100,US,M
+382,Data Analyst,US,100,US,M
+383,Data Analyst,US,100,US,M
+384,Head of Machine Learning,IN,50,IN,L
+385,Data Engineer,US,100,US,M
+386,Machine Learning Engineer,GB,100,GB,L
+387,Data Analyst,US,0,US,M
+388,Data Engineer,US,100,US,M
+389,Machine Learning Engineer,GB,0,GB,M
+390,Machine Learning Engineer,GB,0,GB,M
+391,AI Scientist,US,0,US,M
+392,Data Analyst,US,100,US,M
+393,Data Analyst,US,100,US,M
+394,Data Analytics Manager,US,100,US,M
+395,Data Analytics Manager,US,100,US,M
+396,Machine Learning Engineer,FR,100,DE,M
+397,Data Engineer,GB,0,GB,M
+398,Data Scientist,US,100,US,L
+399,Data Scientist,US,100,US,L
+400,Data Engineer,US,100,US,L
+401,Data Engineer,US,100,US,L
+402,Data Analyst,US,0,US,M
+403,Data Analyst,US,0,US,M
+404,Data Engineer,US,100,US,M
+405,Data Engineer,GB,0,GB,M
+406,Data Analyst,US,0,US,S
+407,Data Engineer,US,100,US,L
+408,Data Analyst,GB,100,GB,M
+409,Data Scientist,US,100,US,M
+410,Data Scientist,GB,0,GB,M
+411,Data Scientist,GB,0,GB,M
+412,Data Engineer,GR,100,GR,M
+413,Data Engineer,GR,100,GR,M
+414,Data Engineer,GB,100,GB,M
+415,Data Engineer,GB,100,GB,M
+416,Data Scientist,US,100,US,M
+417,Data Science Engineer,AR,100,MX,L
+418,Data Engineer,US,0,US,M
+419,Machine Learning Scientist,US,100,US,L
+420,Machine Learning Scientist,US,100,US,L
+421,Data Science Manager,US,100,US,M
+422,Data Science Manager,US,100,US,M
+423,Data Scientist,US,0,US,M
+424,Data Scientist,US,0,US,M
+425,Data Engineer,US,0,US,M
+426,Data Engineer,US,100,US,L
+427,Data Engineer,ES,100,ES,M
+428,Data Scientist,US,0,US,L
+429,Data Analyst,GB,100,GB,M
+430,Data Analyst,ES,100,ES,M
+431,Data Analyst,ES,100,ES,M
+432,Data Engineer,ES,100,ES,M
+433,Data Engineer,ES,100,ES,M
+434,Data Engineer,GB,100,GB,M
+435,Data Engineer,GB,100,GB,M
+436,Data Engineer,ES,100,ES,M
+437,Data Engineer,GR,100,GR,M
+438,Machine Learning Engineer,US,0,US,M
+439,Machine Learning Engineer,US,0,US,M
+440,Data Analyst,GR,100,GR,M
+441,Data Analyst,GR,100,GR,M
+442,Data Engineer,GB,100,GB,M
+443,Data Engineer,GB,100,GB,M
+444,Data Scientist,US,0,US,L
+445,Data Engineer,GR,100,GR,M
+446,Data Engineer,US,100,US,L
+447,Data Engineer,US,100,US,L
+448,Data Engineer,US,100,US,M
+449,ML Engineer,PT,100,PT,L
+450,Data Engineer,US,100,US,M
+451,Machine Learning Developer,CA,100,CA,M
+452,Director of Data Science,CA,50,CA,L
+453,Machine Learning Engineer,US,100,US,S
+454,Computer Vision Engineer,US,0,US,M
+455,NLP Engineer,US,50,US,L
+456,Data Engineer,US,100,US,M
+457,Lead Machine Learning Engineer,DE,0,DE,M
+458,Business Data Analyst,IN,100,IN,M
+459,Data Scientist,IN,100,IN,L
+460,Machine Learning Infrastructure Engineer,PT,50,PT,L
+461,Financial Data Analyst,US,50,US,L
+462,Data Engineer,DE,50,DE,L
+463,Data Scientist,IN,100,IN,M
+464,Principal Data Scientist,DE,100,DE,M
+465,Data Engineer,US,100,US,M
+466,Research Scientist,US,50,US,L
+467,Data Scientist,US,100,US,M
+468,Data Engineer,US,100,US,M
+469,Data Scientist,US,100,US,M
+470,Data Analyst,US,100,US,M
+471,Data Analyst,US,100,US,M
+472,Data Scientist,US,100,US,M
+473,Data Scientist,US,100,US,M
+474,Data Scientist,GB,0,GB,M
+475,Data Scientist,GB,0,GB,M
+476,Data Scientist,US,100,US,M
+477,Machine Learning Engineer,US,100,US,M
+478,Data Scientist,US,100,US,M
+479,Data Scientist,US,100,US,M
+480,Machine Learning Engineer,AE,100,AE,S
+481,Machine Learning Engineer,AE,100,AE,S
+482,Data Engineer,US,100,US,M
+483,Data Engineer,US,100,US,M
+484,Data Engineer,US,100,US,M
+485,Machine Learning Engineer,US,100,US,M
+486,Data Scientist,US,100,US,M
+487,Data Scientist,DZ,50,DZ,M
+488,Data Scientist,CA,100,US,M
+489,Applied Machine Learning Scientist,TN,100,CZ,M
+490,Head of Data,MY,100,US,M
+491,Principal Data Analyst,CA,100,CA,S
+492,Data Scientist,PL,100,PL,L
+493,Machine Learning Developer,CA,100,CA,M
+494,Data Scientist,BR,100,US,M
+495,Machine Learning Scientist,US,50,US,M
+496,Data Engineer,PK,100,DE,M
+497,Data Scientist,US,100,US,M
+498,Research Scientist,FR,50,FR,L
+499,Data Scientist,CA,100,CA,L
+500,Machine Learning Engineer,NL,100,NL,L
+501,Head of Data,EE,100,EE,S
+502,Data Scientist,JP,100,MY,L
+503,Machine Learning Engineer,AU,100,AU,L
+504,Data Engineer,US,100,US,M
+505,Data Scientist,AU,50,AU,M
+506,Applied Machine Learning Scientist,BO,100,US,L
+507,Research Scientist,AT,0,AT,L
+508,Research Scientist,US,100,US,L
+509,Applied Data Scientist,US,100,US,L
+510,Computer Vision Software Engineer,AU,100,AU,S
+511,Business Data Analyst,CA,50,CA,L
+512,Data Engineer,US,100,US,S
+513,Machine Learning Engineer,IE,100,IE,S
+514,Data Analytics Engineer,PK,0,PK,M
+515,Data Scientist,RU,100,US,S
+516,Data Science Manager,US,100,US,M
+517,Data Engineer,FR,100,FR,M
+518,Data Scientist,CH,0,CH,L
+519,Applied Data Scientist,US,100,US,L
+520,Data Scientist,CA,100,CA,M
+521,Computer Vision Engineer,PT,100,LU,M
+522,Data Analyst,GR,100,GR,S
+523,Data Analytics Lead,US,100,US,L
+524,Data Scientist,US,100,US,L
+525,Applied Data Scientist,US,100,US,L
+526,Data Scientist,US,100,US,M
+527,Data Analyst,US,100,US,M
+528,Data Analyst,US,100,US,M
+529,Data Analyst,US,100,US,M
+530,Data Analyst,CA,0,CA,M
+531,Data Analyst,CA,0,CA,M
+532,Machine Learning Engineer,US,100,US,M
+533,Machine Learning Engineer,US,100,US,M
+534,Data Architect,US,100,US,M
+535,Data Architect,US,100,US,M
+536,Data Analyst,US,100,US,M
+537,Data Engineer,US,100,US,M
+538,Data Scientist,US,0,US,M
+539,Data Scientist,US,0,US,M
+540,Data Analyst,US,100,US,M
+541,Data Analyst,US,100,US,M
+542,Data Engineer,US,0,US,M
+543,Data Engineer,US,0,US,M
+544,Data Engineer,US,100,US,M
+545,Data Engineer,US,100,US,M
+546,Data Engineer,US,100,US,M
+547,Data Engineer,US,100,US,M
+548,Data Analyst,US,100,US,M
+549,Data Engineer,US,100,US,M
+550,Data Scientist,US,0,US,L
+551,Data Scientist,US,0,US,L
+552,Data Scientist,US,100,US,M
+553,Data Scientist,US,100,US,M
+554,Data Engineer,US,100,US,M
+555,Data Engineer,US,100,US,M
+556,Data Engineer,US,100,US,M
+557,Data Engineer,US,0,US,M
+558,Data Scientist,US,0,US,M
+559,Data Scientist,US,0,US,M
+560,Analytics Engineer,US,0,US,M
+561,Analytics Engineer,US,0,US,M
+562,Data Engineer,US,100,US,M
+563,Data Engineer,US,100,US,M
+564,Data Analyst,US,100,US,M
+565,Data Engineer,US,0,US,M
+566,Data Analyst,US,100,US,M
+567,Data Analyst,GB,0,GB,M
+568,Data Analyst,US,100,US,M
+569,Data Scientist,US,100,US,M
+570,Data Scientist,US,100,US,M
+571,Data Scientist,US,100,US,M
+572,Data Analyst,US,100,US,M
+573,Data Analyst,US,100,US,M
+574,Data Scientist,US,100,US,M
+575,Data Scientist,US,100,US,M
+576,Data Scientist,US,100,US,M
+577,Data Analyst,US,100,US,M
+578,Data Engineer,US,100,US,M
+579,Data Engineer,US,100,US,M
+580,Data Analyst,US,100,US,M
+581,Data Analyst,US,100,US,M
+582,Data Engineer,US,100,US,M
+583,Data Engineer,US,100,US,M
+584,Data Analyst,US,100,US,M
+585,Data Analyst,US,100,US,M
+586,Data Analyst,GB,0,GB,M
+587,Data Scientist,US,100,US,M
+588,Data Analyst,US,0,US,M
+589,Data Analyst,US,100,US,M
+590,Data Architect,US,100,US,M
+591,Data Architect,US,100,US,M
+592,Data Scientist,US,100,US,M
+593,Data Scientist,US,100,US,M
+594,Data Analytics Manager,US,100,US,M
+595,Data Analytics Manager,US,100,US,M
+596,Data Scientist,US,100,US,M
+597,Data Analyst,US,100,US,M
+598,Data Scientist,US,100,US,M
+599,Data Scientist,US,100,US,M
+600,Data Analyst,CA,0,CA,M
+601,Data Analyst,CA,0,CA,M
+602,Data Engineer,US,100,US,M
+603,Data Engineer,US,100,US,M
+604,Data Analyst,US,0,US,M
+605,Data Analyst,US,100,US,M
+606,AI Scientist,IN,100,US,L
