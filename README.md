@@ -44,6 +44,31 @@ Each person will loop in the rest of the group on their achievements and complet
 Slack channel for the group will also be a place for any questions that arise during the week.
 Group will work collaboratively during class times each week and ensure all data is accurate and troubleshoot where needed.
 
+## Random Forest Machine Learning Model.
+
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time.
+
+### Some interesting facts about Random Forests – Features
+1. Accuracy of Random forest is generally very high
+2. Its efficiency is particularly Notable in Large Data sets
+3. Provides an estimate of important variables in classification
+4. Forests Generated can be saved and reused
+
+![Classification_report](https://user-images.githubusercontent.com/107137215/202321271-6143b156-ac96-489a-a2f1-54288a14a60c.jpg)
+
+ 
+
+### Advantages and Disadvantages of Random Forest
+1.It reduces overfitting in decision trees and helps to improve the accuracy
+2. It is flexible to both classification and regression problems
+3. It works well with both categorical and continuous values
+4. It automates missing values present in the data
+5. Normalising of data is not required as it uses a rule-based approach.
+
+However, despite these advantages, a random forest algorithm also has some drawbacks.
+1. It requires much computational power as well as resources as it builds numerous trees to combine their outputs. 
+2. It also requires much time for training as it combines a lot of decision trees to determine the class.
+3. Due to the ensemble of decision trees, it also suffers interpretability and fails to determine the significance of each variable.
 
 ## Our Why:
 Group selected this particular topic because it is relevant to the coursework and incorporates the information Prof Norman went over at the beginning of each topic. Salary matters in each field, and knowing what we are looking at is beneficial to all of us as we explore data science careers. 
