@@ -80,11 +80,10 @@ We have narrowed data down to residents of the US only to eliminate inaccuracies
 
 Questions will include:
 ---- 
-Avg change in salary per year (Cecelia) & 
-Salary prediction for the following year (2023) (Cecelia) // 
-Salary based on company size (David) //// 
-Salary comparison for remote vs in-office positions. (Kinjal) /// 
-Salary comparison for top 5 positions (Nensi) . 
+Average change in salary per year and Salary prediction for the following year (2023) (Cecelia)
+Salary based on company size (David)
+Salary comparison for remote vs in-office positions. (Kinjal)
+Salary comparison for Top 3 positions (Nensi) . 
 
 
 What we will use:
