@@ -99,8 +99,6 @@ Presentation:
 [Link to Dashboard](https://public.tableau.com/authoring/Salariesfordatasciencejobs/Sheet5/Story%201?%3Aignore_sticky_session=yes#1)
 
 
-*** moving forward :
-narrow job title and update file.
 
 
 
