@@ -84,7 +84,7 @@ We have narrowed data down to residents of the US only to eliminate inaccuracies
 
 Questions will include:
 ---- 
-Average change in salary per year and Salary prediction for the following year (2023) (Cecelia)
+Average change in salary per year (Cecelia)
 
 Salary based on company size (David)
 
