@@ -36,13 +36,7 @@ The site is soley for Machine Learning/AI/Tech open positions and a salary datab
 <b>company_size</b> : The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large)
 
 
-## Communication Protcol 
 
-Group members have been assigned 2 variations of each question to accurately and efficiently analyze data.
-Group members will meet via Zoom 1 time per week minimum outside of class, 2 if scheduling permits.
-Each person will loop in the rest of the group on their achievements and completed tasks via project group in Slack.
-Slack channel for the group will also be a place for any questions that arise during the week.
-Group will work collaboratively during class times each week and ensure all data is accurate and troubleshoot where needed.
 
 ## Random Forest Machine Learning Model.
 
