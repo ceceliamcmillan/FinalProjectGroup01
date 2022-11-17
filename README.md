@@ -1,4 +1,4 @@
-# Final Project Group01
+# Final Project Group 01
 Data Sceince Job Salaries 
 
 ### Link : https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries
