@@ -1,7 +1,8 @@
 # Final Project Group 01
-Data Sceince Job Salaries 
 
-### Link : https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries
+## Data Sceince Job Salaries 
+
+Link : https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries
 
 # Dataset source
 We pulled the data from Kaggle
@@ -73,7 +74,7 @@ Group selected this particular topic because it is relevant to the coursework an
 This Tableau story can be seen at  [link to dashboard](https://public.tableau.com/app/profile/nensi.pandya/viz/ds_salary/JobtitleandSalaryinUSd)
 
 What we plan to anaylze with our data: 
-We have narrowed data down to residents of the US only to eliminate inaccuracies with currency. We plan to select 1-5 job titles to compare and make predictions with. 
+We have narrowed data down to residents of the US only to eliminate inaccuracies with currency. We selected 3 job titles to compare salary trends for. 
 
 Questions will include:
 ---- 
@@ -85,10 +86,16 @@ Salary comparison for remote vs in-office positions. (Kinjal)
 
 Salary comparison for Top 3 positions (Nensi) . 
 
+## Machine Learning 
 
-What we will use:
-Linear Regression Machine Learning 
-Juoyter notebook, Tableau 
+
+We will be using a combination of Jupyter Notebook, Tablaeu, and Random Forest Machine for our learning model. 
+
+In the beginning, we used juoyter notebook to 'clean house' and identify any null or duplicate data. 
+Nensi was able to use RFM to determine outliers within the dataset. 
+Our data was grouped to our advantage, but we took it a step further to group individually by work year and job title to report accurate salary trends for each of the three calendar years provided.
+The changes not only in salary, but total amount of job positions filled allowed us to analyze trends effieciently and see just how fast the Data World is growing, and the changes in need for Data Professionals. 
+
 
 
 Presentation:
