@@ -1,8 +1,5 @@
 # FinalProjectGroup01
-Data bootcamp 2022 final project group 01
-
-10/24
-Group decided on a topic - Data Science Job Salaries
+Data Sceince Job Salaries 
 
 ### Link : https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries
 
