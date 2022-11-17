@@ -70,6 +70,8 @@ However, despite these advantages, a random forest algorithm also has some drawb
 2. It also requires much time for training as it combines a lot of decision trees to determine the class.
 3. Due to the ensemble of decision trees, it also suffers interpretability and fails to determine the significance of each variable.
 
+### Exploratory Data Analysis (EDA)
+
 ![Outliers](https://user-images.githubusercontent.com/107137215/202324439-2c5d6c37-7146-4cd2-91a4-8a8b6323170e.jpg)
 
 
