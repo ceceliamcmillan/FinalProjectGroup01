@@ -103,7 +103,7 @@ Presentation:
 [Link to Google slides](https://docs.google.com/presentation/d/1EuZcaTtNKKLiq5Ai4xnP8bAwsP34RqSoqZRCWC5Jcxg/edit#slide=id.g12bc75dd6ef_0_15)
 
 
-[Link to Dashboard](https://public.tableau.com/authoring/Salariesfordatasciencejobs/Sheet5/Story%201?%3Aignore_sticky_session=yes#1)
+[Link to Dashboard](https://public.tableau.com/app/profile/kinjal.suthar/viz/DataSciencejobsalaries_16688576507420/DashboardDataSciencejobs)
 
 
 
