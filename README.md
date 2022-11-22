@@ -96,6 +96,9 @@ Nensi was able to use RFM to determine outliers within the dataset.
 Our data was grouped to our advantage, but we took it a step further to group individually by work year and job title to report accurate salary trends for each of the three calendar years provided.
 The changes not only in salary, but total amount of job positions filled allowed us to analyze trends effieciently and see just how fast the Data World is growing, and the changes in need for Data Professionals. 
 
+K represents how many clusters there will be. These clusters are then determined by the means of all the points that will belong to the cluster.
+
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/107137215/203196081-40ef6559-ba8e-4a89-a30b-6b11815d297d.png">
 
 
 Presentation:
